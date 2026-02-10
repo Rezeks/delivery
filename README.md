@@ -3,7 +3,7 @@
 Пакет для расчета логистических параметров: объемного веса и стоимости доставки.
 
 ## Установка
-`go get github.com/твой_логин/delivery/logistics`
+`go get github.com/Rezeks/delivery/logistics`
 
 ## Быстрый старт
 ```go
